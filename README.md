@@ -125,7 +125,6 @@
 
 <hr>
 
-<p>Das war ein kurzer Überblick über die Grundlagen von HTML. Übe dich darin, indem du selbst einfache Webseiten erstellst!</p>
 
 
 
